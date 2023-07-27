@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d9k8t4u3oej2v4kc/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-i09ku/branch/main)
+
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
