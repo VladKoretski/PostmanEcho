@@ -1,4 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0y80l6duyy8dgk27/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-90i4s/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/0y80l6duyy8dgk27/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-90i4s/branch/main)  
+[![Build status](https://ci.appveyor.com/api/projects/status/m3fxh17p2apwq7em/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-vqcha/branch/main)
+
 
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
