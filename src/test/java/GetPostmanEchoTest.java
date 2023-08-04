@@ -6,7 +6,7 @@ import static org.hamcrest.Matchers.equalTo;
 public class GetPostmanEchoTest {
 
     @Test
-    void shouldReturnSomething() {
+    void shouldReturnMirror() {
 
         // Given - When - Then
 // Предусловия
