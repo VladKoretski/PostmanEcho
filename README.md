@@ -3,8 +3,6 @@
    
 *test succeded CI*  
 [![Build status](https://ci.appveyor.com/api/projects/status/wh8sjini3xxd1l2u/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-541g3/branch/main)
-
-###Не понял что означает CI галочка. Поправил настройку appveyor - там остался запуск jar файла от предыдущего проекта. Я перезапустил все в CI сервере. 
   
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
