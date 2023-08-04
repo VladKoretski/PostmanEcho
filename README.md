@@ -1,5 +1,6 @@
 *test failed CI*  
-  
+[![Build status](https://ci.appveyor.com/api/projects/status/d9k8t4u3oej2v4kc/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-i09ku/branch/main)
+   
 *test succeded CI*  
 [![Build status](https://ci.appveyor.com/api/projects/status/wh8sjini3xxd1l2u/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-541g3/branch/main)
 
