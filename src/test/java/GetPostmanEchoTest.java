@@ -6,7 +6,7 @@ import static org.hamcrest.Matchers.equalTo;
 public class GetPostmanEchoTest {
 
     @Test
-    void shouldReturnMirror() {
+    void shouldReturnSomething() {
 
         // Given - When - Then
 // Предусловия
@@ -19,7 +19,7 @@ public class GetPostmanEchoTest {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("hi guys"))
+                .body("data", equalTo("hi guys!"))
         ;
     }
 }
