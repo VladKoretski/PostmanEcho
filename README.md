@@ -1,6 +1,3 @@
-*test succeded CI*  
-[![Build status](https://ci.appveyor.com/api/projects/status/wh8sjini3xxd1l2u/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-541g3/branch/main)
-  
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 ## Задача №3: Postman Echo
