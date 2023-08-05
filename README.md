@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7stkuh8w5rlrtvmy/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho/branch/main)  
+
+[![Build status](https://ci.appveyor.com/api/projects/status/47q5x2jpbcfhchvc/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/postmanecho-8vtom/branch/main)  
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 ## Задача №3: Postman Echo
